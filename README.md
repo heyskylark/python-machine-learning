@@ -11,3 +11,4 @@ This repository contains my personal notes and code implementations of the book 
 3. [Maximum Margin with SVM Study](./notebooks/classification/maximumMarginSVM.ipynb) - Using margins held on the backs of support vectors to reduce variance.
 4. [Kernal SVM Study](./notebooks/classification/kernalSVM.ipynb) - Becoming a higher dimensional being, to find linear relationships in a non-linear dataset.
 5. [Decision Tree Study](./notebooks/classification/decisionTree.ipynb) - Divide and conquer, recursively splitting the dataset to find the best decision boundaries.
+6. [K-Nearest Neighbors](./notebooks/classification/knn.ipynb) - Gronk choose closest neighbor to choose classification 🗿
