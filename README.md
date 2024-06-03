@@ -12,3 +12,8 @@ This repository contains my personal notes and code implementations of the book 
 4. [Kernal SVM Study](./notebooks/classification/kernalSVM.ipynb) - Becoming a higher dimensional being, to find linear relationships in a non-linear dataset.
 5. [Decision Tree Study](./notebooks/classification/decisionTree.ipynb) - Divide and conquer, recursively splitting the dataset to find the best decision boundaries.
 6. [K-Nearest Neighbors](./notebooks/classification/knn.ipynb) - Gronk choose closest neighbor to choose classification 🗿
+
+### Preprocessing
+
+1. [Preprocessing](./notebooks/preprocessing/dataPreprocessing.ipynb) - Fixing missing data and encoding and mapping labels & categorial data.
+2. [Feature scaling & feature selection](./notebooks/preprocessing/wineDatasetProcessing.ipynb) - Data partitioning, feature scaling, feature selection, and Regularization with the wine Dataset.
