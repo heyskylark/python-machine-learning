@@ -17,3 +17,4 @@ This repository contains my personal notes and code implementations of the book 
 
 1. [Preprocessing](./notebooks/preprocessing/dataPreprocessing.ipynb) - Fixing missing data and encoding and mapping labels & categorial data.
 2. [Feature scaling & feature selection](./notebooks/preprocessing/wineDatasetProcessing.ipynb) - Data partitioning, feature scaling, feature selection, and Regularization with the wine Dataset.
+3. [Principal Component Analysis](./notebooks/preprocessing/pca.ipynb) - Unsupervised reduction of dimensionality of a dataset using PCA.
