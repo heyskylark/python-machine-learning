@@ -1,5 +1,13 @@
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
 # Virtual environments
 venv/
+
+# IMDB dataset
+aclImdb/
+
+# IMDB dataset csv
+movie_data.csv
